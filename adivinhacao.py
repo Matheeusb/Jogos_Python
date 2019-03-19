@@ -1,6 +1,5 @@
 import random
 
-
 def jogar():
     print("*************************************")
     print("Olá, bem vindo ao jogo de adivinhação")
